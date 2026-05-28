@@ -1,2 +1,2 @@
 # algoritimos
-Repositorio para salvar alguns algoritimos feitos nas minhas linguagens preferidas
+Repositorio para salvar alguns alguns estudos em minhas linguagens preferidas
